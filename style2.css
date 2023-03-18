@@ -1,0 +1,43 @@
+@media screen and (max-width: 480px) {
+      .container{
+        width: 100%;
+        
+
+      }
+
+      .row{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-inline: -8rem;
+        margin-bottom: -4rem;
+        
+      }
+
+      .col{
+        padding-bottom: 4rem;
+        
+      }
+
+      .steps{
+        margin-inline: -10rem ;
+        margin-bottom: 0;
+      }
+
+      .why-us{
+        background-color: black;
+        padding-top: 3rem;
+      }
+
+      .why-us .text-center{
+        padding-inline: 1rem;
+      }
+
+      .col-right{
+        padding-right: 6rem;
+      }
+
+
+    
+}
